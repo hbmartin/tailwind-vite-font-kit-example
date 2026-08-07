@@ -1,7 +1,7 @@
-# tailwind-font-kit-example
+# tailwind-vite-font-kit-example
 
 A real TanStack Start + Tailwind v4 app using
-[`tailwind-font-kit`](https://github.com/hbmartin/tailwind-font-kit), plus the measurement harness
+[`tailwind-vite-font-kit`](https://github.com/hbmartin/tailwind-vite-font-kit), plus the measurement harness
 that produced the numbers in its README — so you can reproduce them rather than take my word for it.
 
 Two families, deliberately chosen to exercise different paths:

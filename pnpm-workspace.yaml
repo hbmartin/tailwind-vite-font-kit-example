@@ -2,3 +2,5 @@ allowBuilds:
   esbuild: true
   lightningcss: true
   puppeteer: true
+minimumReleaseAgeExclude:
+  - tailwind-vite-font-kit@0.1.0

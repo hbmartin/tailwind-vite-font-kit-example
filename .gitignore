@@ -12,4 +12,3 @@ dist-ssr
 *.bak
 result-*.json
 waterfall-*.json
-pnpm-lock.yaml

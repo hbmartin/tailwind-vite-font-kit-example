@@ -1,4 +1,4 @@
-// tailwind-font-kit. Edit this, then rebuild — the plugin regenerates on change.
+// tailwind-vite-font-kit. Edit this, then rebuild — the plugin regenerates on change.
 export default {
   families: [
     {

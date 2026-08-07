@@ -1,5 +1,5 @@
 {
-  "name": "tailwind-font-kit-example",
+  "name": "tailwind-vite-font-kit-example",
   "private": true,
   "type": "module",
   "imports": {
@@ -40,9 +40,9 @@
     "@types/react-dom": "^19.2.0",
     "@vitejs/plugin-react": "^6.0.1",
     "puppeteer": "^25.5.0",
-    "tailwind-font-kit": "github:hbmartin/tailwind-font-kit",
+    "tailwind-vite-font-kit": "^0.1.0",
     "typescript": "^6.0.2",
     "vite": "^8.0.0"
   },
-  "description": "Reference app for tailwind-font-kit: self-hosted Google fonts with metric-matched fallbacks on TanStack Start + Tailwind v4, plus the measurement harness."
+  "description": "Reference app for tailwind-vite-font-kit: self-hosted Google fonts with metric-matched fallbacks on TanStack Start + Tailwind v4, plus the measurement harness."
 }
