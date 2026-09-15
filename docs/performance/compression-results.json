@@ -1,0 +1,417 @@
+{
+  "validated": true,
+  "preload": "</fonts/manrope-xn7gYHE41ni1AdIRggexSvfedN4.woff2>; rel=preload; as=font; type=font/woff2; crossorigin",
+  "rows": [
+    {
+      "path": "/assets/about-xjd97p2b.js",
+      "encoding": "identity",
+      "bytes": 723,
+      "decodedBytes": 723,
+      "sha256": "4b03bd23692d7800412ead257cb58099f125f4c0036d0242125860e1bb0e7da3",
+      "headers": {
+        "cache-control": "public, max-age=31536000, immutable",
+        "content-length": "723",
+        "content-type": "text/javascript; charset=utf-8",
+        "etag": "\"2d3-h4TcF6KlO7Aezo2aLrG4q0KwaDU\"",
+        "last-modified": "Tue, 15 Sep 2026 01:23:28 GMT",
+        "link": "</fonts/manrope-xn7gYHE41ni1AdIRggexSvfedN4.woff2>; rel=preload; as=font; type=font/woff2; crossorigin",
+        "vary": "Accept-Encoding",
+        "date": "Tue, 15 Sep 2026 01:24:41 GMT",
+        "connection": "keep-alive",
+        "keep-alive": "timeout=5"
+      }
+    },
+    {
+      "path": "/assets/about-xjd97p2b.js",
+      "encoding": "gzip",
+      "bytes": 723,
+      "decodedBytes": 723,
+      "sha256": "4b03bd23692d7800412ead257cb58099f125f4c0036d0242125860e1bb0e7da3",
+      "headers": {
+        "cache-control": "public, max-age=31536000, immutable",
+        "content-length": "723",
+        "content-type": "text/javascript; charset=utf-8",
+        "etag": "\"2d3-h4TcF6KlO7Aezo2aLrG4q0KwaDU\"",
+        "last-modified": "Tue, 15 Sep 2026 01:23:28 GMT",
+        "link": "</fonts/manrope-xn7gYHE41ni1AdIRggexSvfedN4.woff2>; rel=preload; as=font; type=font/woff2; crossorigin",
+        "vary": "Accept-Encoding, Accept-Encoding",
+        "date": "Tue, 15 Sep 2026 01:24:41 GMT",
+        "connection": "keep-alive",
+        "keep-alive": "timeout=5"
+      }
+    },
+    {
+      "path": "/assets/about-xjd97p2b.js",
+      "encoding": "br",
+      "bytes": 723,
+      "decodedBytes": 723,
+      "sha256": "4b03bd23692d7800412ead257cb58099f125f4c0036d0242125860e1bb0e7da3",
+      "headers": {
+        "cache-control": "public, max-age=31536000, immutable",
+        "content-length": "723",
+        "content-type": "text/javascript; charset=utf-8",
+        "etag": "\"2d3-h4TcF6KlO7Aezo2aLrG4q0KwaDU\"",
+        "last-modified": "Tue, 15 Sep 2026 01:23:28 GMT",
+        "link": "</fonts/manrope-xn7gYHE41ni1AdIRggexSvfedN4.woff2>; rel=preload; as=font; type=font/woff2; crossorigin",
+        "vary": "Accept-Encoding, Accept-Encoding",
+        "date": "Tue, 15 Sep 2026 01:24:41 GMT",
+        "connection": "keep-alive",
+        "keep-alive": "timeout=5"
+      }
+    },
+    {
+      "path": "/assets/index-EsPU0q6Z.js",
+      "encoding": "identity",
+      "bytes": 319794,
+      "decodedBytes": 319794,
+      "sha256": "8f87882061a674e34d14d7aa89e1adb33cc65b82059131b52cf805b2b2d58628",
+      "headers": {
+        "cache-control": "public, max-age=31536000, immutable",
+        "content-length": "319794",
+        "content-type": "text/javascript; charset=utf-8",
+        "etag": "\"4e132-OIAWv0+i8fE+4T8VJNKxAYf3nCs\"",
+        "last-modified": "Tue, 15 Sep 2026 01:23:28 GMT",
+        "link": "</fonts/manrope-xn7gYHE41ni1AdIRggexSvfedN4.woff2>; rel=preload; as=font; type=font/woff2; crossorigin",
+        "vary": "Accept-Encoding",
+        "date": "Tue, 15 Sep 2026 01:24:41 GMT",
+        "connection": "keep-alive",
+        "keep-alive": "timeout=5"
+      }
+    },
+    {
+      "path": "/assets/index-EsPU0q6Z.js",
+      "encoding": "gzip",
+      "bytes": 100964,
+      "decodedBytes": 319794,
+      "sha256": "8f87882061a674e34d14d7aa89e1adb33cc65b82059131b52cf805b2b2d58628",
+      "headers": {
+        "cache-control": "public, max-age=31536000, immutable",
+        "content-encoding": "gzip",
+        "content-length": "100964",
+        "content-type": "text/javascript; charset=utf-8",
+        "etag": "\"18a64-7qKcoMvPQYS0E1DK3zKGswPvHyQ\"",
+        "last-modified": "Tue, 15 Sep 2026 01:23:31 GMT",
+        "link": "</fonts/manrope-xn7gYHE41ni1AdIRggexSvfedN4.woff2>; rel=preload; as=font; type=font/woff2; crossorigin",
+        "vary": "Accept-Encoding, Accept-Encoding",
+        "date": "Tue, 15 Sep 2026 01:24:41 GMT",
+        "connection": "keep-alive",
+        "keep-alive": "timeout=5"
+      }
+    },
+    {
+      "path": "/assets/index-EsPU0q6Z.js",
+      "encoding": "br",
+      "bytes": 87633,
+      "decodedBytes": 319794,
+      "sha256": "8f87882061a674e34d14d7aa89e1adb33cc65b82059131b52cf805b2b2d58628",
+      "headers": {
+        "cache-control": "public, max-age=31536000, immutable",
+        "content-encoding": "br",
+        "content-length": "87633",
+        "content-type": "text/javascript; charset=utf-8",
+        "etag": "\"15651-LzWi9/mAMWkz2B9vMc0UTMaz5EU\"",
+        "last-modified": "Tue, 15 Sep 2026 01:23:32 GMT",
+        "link": "</fonts/manrope-xn7gYHE41ni1AdIRggexSvfedN4.woff2>; rel=preload; as=font; type=font/woff2; crossorigin",
+        "vary": "Accept-Encoding, Accept-Encoding",
+        "date": "Tue, 15 Sep 2026 01:24:41 GMT",
+        "connection": "keep-alive",
+        "keep-alive": "timeout=5"
+      }
+    },
+    {
+      "path": "/assets/probe._case-BIhP1VRR.js",
+      "encoding": "identity",
+      "bytes": 2842,
+      "decodedBytes": 2842,
+      "sha256": "4081433b8ef796088714102848af3947ec23c68b447ab448eea809edb67b7346",
+      "headers": {
+        "cache-control": "public, max-age=31536000, immutable",
+        "content-length": "2842",
+        "content-type": "text/javascript; charset=utf-8",
+        "etag": "\"b1a-S7kUsi1Jwo73Gw+roK1CU2yVU5c\"",
+        "last-modified": "Tue, 15 Sep 2026 01:23:28 GMT",
+        "link": "</fonts/manrope-xn7gYHE41ni1AdIRggexSvfedN4.woff2>; rel=preload; as=font; type=font/woff2; crossorigin",
+        "vary": "Accept-Encoding",
+        "date": "Tue, 15 Sep 2026 01:24:41 GMT",
+        "connection": "keep-alive",
+        "keep-alive": "timeout=5"
+      }
+    },
+    {
+      "path": "/assets/probe._case-BIhP1VRR.js",
+      "encoding": "gzip",
+      "bytes": 1148,
+      "decodedBytes": 2842,
+      "sha256": "4081433b8ef796088714102848af3947ec23c68b447ab448eea809edb67b7346",
+      "headers": {
+        "cache-control": "public, max-age=31536000, immutable",
+        "content-encoding": "gzip",
+        "content-length": "1148",
+        "content-type": "text/javascript; charset=utf-8",
+        "etag": "\"47c-QYdhjrLxzHDDVWxjpZ1+8W5NR1M\"",
+        "last-modified": "Tue, 15 Sep 2026 01:23:31 GMT",
+        "link": "</fonts/manrope-xn7gYHE41ni1AdIRggexSvfedN4.woff2>; rel=preload; as=font; type=font/woff2; crossorigin",
+        "vary": "Accept-Encoding, Accept-Encoding",
+        "date": "Tue, 15 Sep 2026 01:24:41 GMT",
+        "connection": "keep-alive",
+        "keep-alive": "timeout=5"
+      }
+    },
+    {
+      "path": "/assets/probe._case-BIhP1VRR.js",
+      "encoding": "br",
+      "bytes": 920,
+      "decodedBytes": 2842,
+      "sha256": "4081433b8ef796088714102848af3947ec23c68b447ab448eea809edb67b7346",
+      "headers": {
+        "cache-control": "public, max-age=31536000, immutable",
+        "content-encoding": "br",
+        "content-length": "920",
+        "content-type": "text/javascript; charset=utf-8",
+        "etag": "\"398-T8eShSCvpv5J4OwvU2YnmZE8+28\"",
+        "last-modified": "Tue, 15 Sep 2026 01:23:31 GMT",
+        "link": "</fonts/manrope-xn7gYHE41ni1AdIRggexSvfedN4.woff2>; rel=preload; as=font; type=font/woff2; crossorigin",
+        "vary": "Accept-Encoding, Accept-Encoding",
+        "date": "Tue, 15 Sep 2026 01:24:41 GMT",
+        "connection": "keep-alive",
+        "keep-alive": "timeout=5"
+      }
+    },
+    {
+      "path": "/assets/routes-Cd-yCrLb.js",
+      "encoding": "identity",
+      "bytes": 3309,
+      "decodedBytes": 3309,
+      "sha256": "c5940fef4e6bafd885550050f80fdadfacb2d269b68ea0fb0868dc0dbc0e1c0b",
+      "headers": {
+        "cache-control": "public, max-age=31536000, immutable",
+        "content-length": "3309",
+        "content-type": "text/javascript; charset=utf-8",
+        "etag": "\"ced-tzWsMu55PmSv2P6naKE16tzoNDQ\"",
+        "last-modified": "Tue, 15 Sep 2026 01:23:28 GMT",
+        "link": "</fonts/manrope-xn7gYHE41ni1AdIRggexSvfedN4.woff2>; rel=preload; as=font; type=font/woff2; crossorigin",
+        "vary": "Accept-Encoding",
+        "date": "Tue, 15 Sep 2026 01:24:41 GMT",
+        "connection": "keep-alive",
+        "keep-alive": "timeout=5"
+      }
+    },
+    {
+      "path": "/assets/routes-Cd-yCrLb.js",
+      "encoding": "gzip",
+      "bytes": 1354,
+      "decodedBytes": 3309,
+      "sha256": "c5940fef4e6bafd885550050f80fdadfacb2d269b68ea0fb0868dc0dbc0e1c0b",
+      "headers": {
+        "cache-control": "public, max-age=31536000, immutable",
+        "content-encoding": "gzip",
+        "content-length": "1354",
+        "content-type": "text/javascript; charset=utf-8",
+        "etag": "\"54a-TurG81EYwLTialEVPeggxEfQvoQ\"",
+        "last-modified": "Tue, 15 Sep 2026 01:23:31 GMT",
+        "link": "</fonts/manrope-xn7gYHE41ni1AdIRggexSvfedN4.woff2>; rel=preload; as=font; type=font/woff2; crossorigin",
+        "vary": "Accept-Encoding, Accept-Encoding",
+        "date": "Tue, 15 Sep 2026 01:24:41 GMT",
+        "connection": "keep-alive",
+        "keep-alive": "timeout=5"
+      }
+    },
+    {
+      "path": "/assets/routes-Cd-yCrLb.js",
+      "encoding": "br",
+      "bytes": 1109,
+      "decodedBytes": 3309,
+      "sha256": "c5940fef4e6bafd885550050f80fdadfacb2d269b68ea0fb0868dc0dbc0e1c0b",
+      "headers": {
+        "cache-control": "public, max-age=31536000, immutable",
+        "content-encoding": "br",
+        "content-length": "1109",
+        "content-type": "text/javascript; charset=utf-8",
+        "etag": "\"455-AmUPmKygPU0fY7xbgJPciup13HI\"",
+        "last-modified": "Tue, 15 Sep 2026 01:23:31 GMT",
+        "link": "</fonts/manrope-xn7gYHE41ni1AdIRggexSvfedN4.woff2>; rel=preload; as=font; type=font/woff2; crossorigin",
+        "vary": "Accept-Encoding, Accept-Encoding",
+        "date": "Tue, 15 Sep 2026 01:24:41 GMT",
+        "connection": "keep-alive",
+        "keep-alive": "timeout=5"
+      }
+    },
+    {
+      "path": "/assets/styles-DOwHeEGV.css",
+      "encoding": "identity",
+      "bytes": 33385,
+      "decodedBytes": 33385,
+      "sha256": "a8fa50b99e3960a49099c68248162ea372ab40ade759f78a378e43373a93e76a",
+      "headers": {
+        "cache-control": "public, max-age=31536000, immutable",
+        "content-length": "33385",
+        "content-type": "text/css; charset=utf-8",
+        "etag": "\"8269-FsXVPqyX+yZJ0Itx9cb6nNeQJfs\"",
+        "last-modified": "Tue, 15 Sep 2026 01:23:31 GMT",
+        "link": "</fonts/manrope-xn7gYHE41ni1AdIRggexSvfedN4.woff2>; rel=preload; as=font; type=font/woff2; crossorigin",
+        "vary": "Accept-Encoding",
+        "date": "Tue, 15 Sep 2026 01:24:41 GMT",
+        "connection": "keep-alive",
+        "keep-alive": "timeout=5"
+      }
+    },
+    {
+      "path": "/assets/styles-DOwHeEGV.css",
+      "encoding": "gzip",
+      "bytes": 7435,
+      "decodedBytes": 33385,
+      "sha256": "a8fa50b99e3960a49099c68248162ea372ab40ade759f78a378e43373a93e76a",
+      "headers": {
+        "cache-control": "public, max-age=31536000, immutable",
+        "content-encoding": "gzip",
+        "content-length": "7435",
+        "content-type": "text/css; charset=utf-8",
+        "etag": "\"1d0b-0QLty+9EavgCmbKg+LF+MfNyUfM\"",
+        "last-modified": "Tue, 15 Sep 2026 01:23:31 GMT",
+        "link": "</fonts/manrope-xn7gYHE41ni1AdIRggexSvfedN4.woff2>; rel=preload; as=font; type=font/woff2; crossorigin",
+        "vary": "Accept-Encoding, Accept-Encoding",
+        "date": "Tue, 15 Sep 2026 01:24:41 GMT",
+        "connection": "keep-alive",
+        "keep-alive": "timeout=5"
+      }
+    },
+    {
+      "path": "/assets/styles-DOwHeEGV.css",
+      "encoding": "br",
+      "bytes": 6488,
+      "decodedBytes": 33385,
+      "sha256": "a8fa50b99e3960a49099c68248162ea372ab40ade759f78a378e43373a93e76a",
+      "headers": {
+        "cache-control": "public, max-age=31536000, immutable",
+        "content-encoding": "br",
+        "content-length": "6488",
+        "content-type": "text/css; charset=utf-8",
+        "etag": "\"1958-aVSWdIGsa9Zt77tEgFXxn+xMW/Y\"",
+        "last-modified": "Tue, 15 Sep 2026 01:23:31 GMT",
+        "link": "</fonts/manrope-xn7gYHE41ni1AdIRggexSvfedN4.woff2>; rel=preload; as=font; type=font/woff2; crossorigin",
+        "vary": "Accept-Encoding, Accept-Encoding",
+        "date": "Tue, 15 Sep 2026 01:24:41 GMT",
+        "connection": "keep-alive",
+        "keep-alive": "timeout=5"
+      }
+    },
+    {
+      "path": "/fonts/fraunces-6NUu8FyLNQOQZAnv9bYEvDiIdE9Ea92uemAk_WBq8U_9v0c2Wa0K7iN7hzFUPJH58ni71Ic7qv8oRcTn.woff2",
+      "encoding": "identity",
+      "bytes": 37064,
+      "decodedBytes": 37064,
+      "sha256": "3d1603cdf716b0a4d71e107dea9361bcaeb605347663b501c92cfa4bd8139e64",
+      "headers": {
+        "access-control-allow-origin": "*",
+        "cache-control": "public, max-age=31536000, immutable",
+        "content-length": "37064",
+        "content-type": "font/woff2",
+        "etag": "\"90c8-L42FCYdAQU6lXJ2SMwa5BWOkGa8\"",
+        "last-modified": "Tue, 15 Sep 2026 01:23:31 GMT",
+        "link": "</fonts/manrope-xn7gYHE41ni1AdIRggexSvfedN4.woff2>; rel=preload; as=font; type=font/woff2; crossorigin",
+        "date": "Tue, 15 Sep 2026 01:24:41 GMT",
+        "connection": "keep-alive",
+        "keep-alive": "timeout=5"
+      }
+    },
+    {
+      "path": "/fonts/fraunces-6NUu8FyLNQOQZAnv9bYEvDiIdE9Ea92uemAk_WBq8U_9v0c2Wa0K7iN7hzFUPJH58ni71Ic7qv8oRcTn.woff2",
+      "encoding": "gzip",
+      "bytes": 37064,
+      "decodedBytes": 37064,
+      "sha256": "3d1603cdf716b0a4d71e107dea9361bcaeb605347663b501c92cfa4bd8139e64",
+      "headers": {
+        "access-control-allow-origin": "*",
+        "cache-control": "public, max-age=31536000, immutable",
+        "content-length": "37064",
+        "content-type": "font/woff2",
+        "etag": "\"90c8-L42FCYdAQU6lXJ2SMwa5BWOkGa8\"",
+        "last-modified": "Tue, 15 Sep 2026 01:23:31 GMT",
+        "link": "</fonts/manrope-xn7gYHE41ni1AdIRggexSvfedN4.woff2>; rel=preload; as=font; type=font/woff2; crossorigin",
+        "vary": "Accept-Encoding",
+        "date": "Tue, 15 Sep 2026 01:24:41 GMT",
+        "connection": "keep-alive",
+        "keep-alive": "timeout=5"
+      }
+    },
+    {
+      "path": "/fonts/fraunces-6NUu8FyLNQOQZAnv9bYEvDiIdE9Ea92uemAk_WBq8U_9v0c2Wa0K7iN7hzFUPJH58ni71Ic7qv8oRcTn.woff2",
+      "encoding": "br",
+      "bytes": 37064,
+      "decodedBytes": 37064,
+      "sha256": "3d1603cdf716b0a4d71e107dea9361bcaeb605347663b501c92cfa4bd8139e64",
+      "headers": {
+        "access-control-allow-origin": "*",
+        "cache-control": "public, max-age=31536000, immutable",
+        "content-length": "37064",
+        "content-type": "font/woff2",
+        "etag": "\"90c8-L42FCYdAQU6lXJ2SMwa5BWOkGa8\"",
+        "last-modified": "Tue, 15 Sep 2026 01:23:31 GMT",
+        "link": "</fonts/manrope-xn7gYHE41ni1AdIRggexSvfedN4.woff2>; rel=preload; as=font; type=font/woff2; crossorigin",
+        "vary": "Accept-Encoding",
+        "date": "Tue, 15 Sep 2026 01:24:41 GMT",
+        "connection": "keep-alive",
+        "keep-alive": "timeout=5"
+      }
+    },
+    {
+      "path": "/fonts/manrope-xn7gYHE41ni1AdIRggexSvfedN4.woff2",
+      "encoding": "identity",
+      "bytes": 24576,
+      "decodedBytes": 24576,
+      "sha256": "e310b55a7fd9677f5e3555e6c6c4d064fa1f1d24393f0ddbe217cea12a8c432f",
+      "headers": {
+        "access-control-allow-origin": "*",
+        "cache-control": "public, max-age=31536000, immutable",
+        "content-length": "24576",
+        "content-type": "font/woff2",
+        "etag": "\"6000-yOr+6GOlMYXr/a2M9DBWFj+PFP0\"",
+        "last-modified": "Tue, 15 Sep 2026 01:23:31 GMT",
+        "link": "</fonts/manrope-xn7gYHE41ni1AdIRggexSvfedN4.woff2>; rel=preload; as=font; type=font/woff2; crossorigin",
+        "date": "Tue, 15 Sep 2026 01:24:41 GMT",
+        "connection": "keep-alive",
+        "keep-alive": "timeout=5"
+      }
+    },
+    {
+      "path": "/fonts/manrope-xn7gYHE41ni1AdIRggexSvfedN4.woff2",
+      "encoding": "gzip",
+      "bytes": 24576,
+      "decodedBytes": 24576,
+      "sha256": "e310b55a7fd9677f5e3555e6c6c4d064fa1f1d24393f0ddbe217cea12a8c432f",
+      "headers": {
+        "access-control-allow-origin": "*",
+        "cache-control": "public, max-age=31536000, immutable",
+        "content-length": "24576",
+        "content-type": "font/woff2",
+        "etag": "\"6000-yOr+6GOlMYXr/a2M9DBWFj+PFP0\"",
+        "last-modified": "Tue, 15 Sep 2026 01:23:31 GMT",
+        "link": "</fonts/manrope-xn7gYHE41ni1AdIRggexSvfedN4.woff2>; rel=preload; as=font; type=font/woff2; crossorigin",
+        "vary": "Accept-Encoding",
+        "date": "Tue, 15 Sep 2026 01:24:41 GMT",
+        "connection": "keep-alive",
+        "keep-alive": "timeout=5"
+      }
+    },
+    {
+      "path": "/fonts/manrope-xn7gYHE41ni1AdIRggexSvfedN4.woff2",
+      "encoding": "br",
+      "bytes": 24576,
+      "decodedBytes": 24576,
+      "sha256": "e310b55a7fd9677f5e3555e6c6c4d064fa1f1d24393f0ddbe217cea12a8c432f",
+      "headers": {
+        "access-control-allow-origin": "*",
+        "cache-control": "public, max-age=31536000, immutable",
+        "content-length": "24576",
+        "content-type": "font/woff2",
+        "etag": "\"6000-yOr+6GOlMYXr/a2M9DBWFj+PFP0\"",
+        "last-modified": "Tue, 15 Sep 2026 01:23:31 GMT",
+        "link": "</fonts/manrope-xn7gYHE41ni1AdIRggexSvfedN4.woff2>; rel=preload; as=font; type=font/woff2; crossorigin",
+        "vary": "Accept-Encoding",
+        "date": "Tue, 15 Sep 2026 01:24:41 GMT",
+        "connection": "keep-alive",
+        "keep-alive": "timeout=5"
+      }
+    }
+  ]
+}

@@ -12,7 +12,12 @@ const config = defineConfig({
   resolve: { tsconfigPaths: true },
   plugins: [
     devtools(),
-    nitro({ rollupConfig: { external: [/^@sentry\//] } }),
+    nitro({
+      compressPublicAssets: { gzip: true, brotli: true },
+      // Identity responses also vary: shared caches must negotiate each representation.
+      routeRules: { '/assets/**': { headers: { vary: 'Accept-Encoding' } } },
+      rollupConfig: { external: [/^@sentry\//] },
+    }),
     fonts(),
     tailwindcss(),
     tanstackStart(),

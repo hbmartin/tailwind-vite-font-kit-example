@@ -12,3 +12,6 @@ dist-ssr
 *.bak
 result-*.json
 waterfall-*.json
+
+# Manual production verification output
+/compression-results.json
